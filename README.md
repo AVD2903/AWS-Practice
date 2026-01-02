@@ -1,2 +1,0 @@
-# AWS-Practice
-Practicing AWS 
